@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="id" name="invalidate"/>
+	<item type="id" name="process_img"/>
+	<item type="id" name="process_ok"/>
+	<item type="id" name="process_failed"/>
+	<item type="id" name="quit"/>
+</resources>
